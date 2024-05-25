@@ -1,5 +1,3 @@
-Space optimziation Git
-```
 # h1 Heading f
 ## h2 Heading
 ### h3 Heading
